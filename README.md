@@ -3,7 +3,7 @@
 # Project overview and details 
 -	This project entails the development of a Wine Classifier App used to classify the quality of wines based on several features (e.g., alcohol level, acidity, density) using machine learning.
 -	Developed heatmap and correlation matrix to show the correlation between the features and the **quality** of wine.
--	Built a Machine Learning Classifier Model using **PyCaret**
+-	Built a Machine Learning Classifier Model using **PyCaret** to predict the **quality** of the wines based on **11 different features** (e.g. alcohol level, acidity, density) . 
 -	Developed and optimised  machine learning models to improve the accuracy of the models. 
 -	Created and deployed the Wine Quality Classifier Web App using **Streamlit**, which is available here - https://share.streamlit.io/drsotayo/wine_classifier_web_app/main/wine_classifier_web_app.py 
 
