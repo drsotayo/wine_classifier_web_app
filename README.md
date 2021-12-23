@@ -14,6 +14,11 @@
 - Recall for Extra Trees Classifier model: 0.8347
 - Precision for Extra Trees Classifier model: 0.7667 
 
+![download (4)](https://user-images.githubusercontent.com/86897066/147242336-120369db-08fc-4dd8-af65-1f0d5336bb76.png)
+![download (5)](https://user-images.githubusercontent.com/86897066/147242341-82f4007b-502c-4e36-ab46-b3856d6ca687.png)
+![download (7)](https://user-images.githubusercontent.com/86897066/147242356-b285b1b9-92c8-460d-9742-5ef78fe5449c.png)
+![download (6)](https://user-images.githubusercontent.com/86897066/147242362-9ec656b6-e8cf-4e29-839f-c8d3410f174e.png)
+
 
 
 # References 
